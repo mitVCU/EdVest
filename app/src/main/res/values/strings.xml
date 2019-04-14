@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Edvest</string>
+    <string name="title_activity_borrower">BorrowerActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Proposals</string>
+    <string name="title_user">User\'s Name</string>
+    <string name="borrow_button">Borrow</string>
+    <string name="lend_button">Lend</string>
+    <string name="title_activity_lender">LenderActivity</string>
+    <string name="title_notifications">Notifications</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
